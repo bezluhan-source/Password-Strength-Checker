@@ -103,4 +103,4 @@ own or have explicit written permission to test.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+All rights rserved
